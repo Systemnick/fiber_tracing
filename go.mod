@@ -1,4 +1,4 @@
-module github.com/shareed2k/fiber_tracing
+module github.com/Systemnick/fiber_tracing
 
 go 1.14
 
